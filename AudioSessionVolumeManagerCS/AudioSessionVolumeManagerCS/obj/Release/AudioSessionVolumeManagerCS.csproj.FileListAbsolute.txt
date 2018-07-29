@@ -1,0 +1,13 @@
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\bin\Release\AudioSessionVolumeManagerCS.exe.config
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\bin\Release\AudioSessionVolumeManagerCS.exe
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\bin\Release\AudioSessionVolumeManagerCS.pdb
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\bin\Release\NAudio.dll
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\bin\Release\NAudio.xml
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.AudioSessionVolumeManagerCS.resources
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.Properties.Resources.resources
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.csproj.CopyComplete
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.exe
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.pdb
+C:\Users\willi\source\repos\AudioSessionVolumeManagerCS\AudioSessionVolumeManagerCS\obj\Release\AudioSessionVolumeManagerCS.csprojAssemblyReference.cache
